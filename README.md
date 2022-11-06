@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+In+Mystic+Network%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/Brokenhero_08"><img src="https://telegra.ph/file/839e6530f6e7f5ada86e8.jpg" alt="zerohisoka"></a>
+  <a href="https://t.me/Brokenhero_08"><img src="https://telegra.ph/file/f7ec15cc28a6189d90e93.jpg" alt="zerohisoka"></a>
   
   
   
